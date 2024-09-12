@@ -1,25 +1,20 @@
-## Bem-vindo(a) ao perfil do Mikah Bs 😁
+# 🖥️ Meu Portfólio de Desenvolvimento Full Stack
 
- <div>
-   <a href="https://github.com/mikahbs">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikahbs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikahbs&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
-  <img align="center" alt="HTML" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
-  <img align="center" alt="CSS" height="50" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-</div>
- 
-<br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div>
-  <a href="https://www.youtube.com/mikahbs" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto👪.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+| **Informação**            | **Detalhes**                                                                                             |
+|---------------------------|---------------------------------------------------------------------------------------------------------|
+| **👤 Nome**                | [Seu Nome Completo]                                                                                      |
+| **💻 Especialização**      | Desenvolvedor Web Full Stack                                                                            |
+| **🌐 Tecnologias**         | HTML, CSS, JavaScript, Node.js, React, MySQL, MongoDB                                                   |
+| **📱 Projetos**            | 1. [Aplicativo de Sermões](https://link-para-seu-app) 📖 <br> 2. Sistema de Gestão de Produtos 🧼        |
+| **🛠️ Ferramentas**         | Git, VSCode, Figma, Postman, Docker                                                                     |
+| **🎓 Formação**            | Curso de Desenvolvimento Web, [Nome da Instituição]                                                     |
+| **📧 Contato**             | [email@dominio.com](mailto:email@dominio.com)                                                           |
+| **🔗 Redes Sociais**       | [LinkedIn](https://www.linkedin.com/in/seu-perfil/)                                                     |
+| **🌱 Aprendendo**          | TypeScript, Next.js                                                                                     |
+| **🚀 Objetivo**            | Criar soluções tecnológicas que impactem positivamente a vida das pessoas.                              |
+| **📊 Estatísticas GitHub** | ![Estatísticas](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuário&show_icons=true&theme=radical) |
+
+---
+
+### Resumo:
+Sou um desenvolvedor Full Stack com foco em eficiência, usabilidade e boas práticas de desenvolvimento. Tenho experiência em construir aplicações web escaláveis e otimizadas para diversos tipos de negócio. Atualmente, estou expandindo meus conhecimentos em **TypeScript** e **Next.js** para criar soluções ainda mais robustas.
