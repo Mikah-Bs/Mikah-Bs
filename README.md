@@ -17,7 +17,13 @@
 | **🔗 Redes Sociais**       | <span style="color:#9c27b0; font-weight:bold;">[Instagram](https://www.instagram.com/mikaellbenedito?igsh=MXEyczV3cW03bXg1Zg==)</span> |
 | **🌱 Aprendendo**          | <span style="color:#8bc34a; font-weight:bold;">TypeScript</span>, <span style="color:#8bc34a; font-weight:bold;">Next.js</span> |
 | **🚀 Objetivo**            | Criar soluções tecnológicas que impactem positivamente a vida das pessoas.                              |
-| **📊 Estatísticas GitHub** | ![Estatísticas](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuário&show_icons=true&theme=radical) |
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuário&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=solarized-light" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuário&layout=compact&theme=solarized-light" alt="Línguas Mais Usadas">
+</p>
 
 ---
 
